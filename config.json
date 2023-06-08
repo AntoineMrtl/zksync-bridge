@@ -1,0 +1,15 @@
+{
+    "PRIVATE_KEYS": [
+        "xxxx", "xxxx", "xxxx"
+    ],
+    "CUSTOM_PERCENTAGES": false,
+    "PERCENTAGES_PER_ADDRESS": [
+       1, 1, 1
+    ],
+
+
+    "ZKSYNC_PROVIDER": "https://mainnet.era.zksync.io/",
+    "L1_PROVIDER": "https://endpoints.omniatech.io/v1/eth/mainnet/public",
+    "GAS_SLIPPAGE": 1.1,
+    "GAS_LIMIT": 120000
+}
